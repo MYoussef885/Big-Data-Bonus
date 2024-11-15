@@ -1,8 +1,6 @@
-### Big Data Assignment Overview for Your Dataset
+### Big Data Assignment
 
-This project processes a dataset using a pipeline built with Docker and Python. It includes steps for loading the dataset, preprocessing, performing exploratory data analysis (EDA), visualizing results, and applying K-means clustering. The final outputs are stored in the `service-result` directory for further analysis.
 
----
 
 ### **Requirements**
 - **Docker**
